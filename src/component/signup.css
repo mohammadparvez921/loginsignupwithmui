@@ -1,0 +1,17 @@
+.signup-image {
+    text-align: center;
+  }
+  
+  .signup-image img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  /* Media query for responsiveness */
+  @media (max-width: 768px) {
+    .signup-image{
+      width:80vw;
+      margin-top: 20px; 
+      margin-left: 30px;
+    }
+  }

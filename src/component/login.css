@@ -1,0 +1,18 @@
+
+.login-image {
+    text-align: center;
+  }
+  
+  .login-image img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  /* Media query for responsiveness */
+  @media (max-width: 768px) {
+    .login-image {
+      width:80vw;
+      margin-top: 20px; 
+      margin-left: 30px;
+    }
+  }
