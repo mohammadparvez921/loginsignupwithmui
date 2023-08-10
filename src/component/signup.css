@@ -6,6 +6,10 @@
     max-width: 100%;
     height: auto;
   }
+  .error{
+    color: red;
+    margin-top: 5px;
+  }
   
   /* Media query for responsiveness */
   @media (max-width: 768px) {
